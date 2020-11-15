@@ -1,1 +1,1 @@
-Sitemap: https://raulpl.github.io/blog/sitemap.xml
+Sitemap: https://raulpl.github.io/effective-guacamole/sitemap.xml
